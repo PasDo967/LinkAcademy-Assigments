@@ -1,0 +1,18 @@
+table {
+    font-family: Comic Sans MS, serif; 
+    border-collapse: collapse;
+    width: auto;
+  }
+
+  th {
+    padding: 12px;
+  }
+
+  td {
+    padding: 8px;
+  }
+
+  th,
+  td {
+    border: solid 3px #e6e6e6;
+  }
